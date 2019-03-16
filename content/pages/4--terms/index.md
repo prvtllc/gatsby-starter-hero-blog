@@ -2,8 +2,15 @@
 title: Terms and Conditions
 ---
 
-Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.
+## By using this website, you agree to the following terms
 
-Rviverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.
-
-Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.
+You shall not give a fuck
+You shall not be a douchebag using Facebook's check in feature
+You shall not post pictures of your meals on Instagram
+You shall never use Pinterest
+You shall not think that the fucks in LinkedIn care about your job
+You shall not "like" pictures of people you actually hate
+You shall never ever type LOL unless you are fucking with people who do
+You shall checkout [orkkut.org](https://www.orkut.org)
+You shall not sign up for What's app unless you enjoy being stalked and data mined
+**More to come.... we stopped giving a fuck while writing this!**

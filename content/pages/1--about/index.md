@@ -2,26 +2,12 @@
 title: About
 ---
 
-This is a demo site of the [HeroBlog](https://github.com/greglobinski/gatsby-starter-hero-blog), a [GatsbyJS](https://www.gatsbyjs.org/) starter.
+##WeJustDontGiveAFuck.com
 
-### Features:
+The antithesis of the crap that we have to read online everyday. See, the web used to be a place where you could find interesting information about the news,various topics and things that you found interesting. To a certain extend, it still is…
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **CSS** with `styled-jsx` and `PostCSS`
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (category based post list)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* 100% **PWA** (manifest.webmanifest, offline support, favicons)
-* Google **Analytics**
-* App **favicons** generator (node script)
-* Easy customizable base **styles** via `theme` object generated from `yaml` file (fonts, colors, sizes)
-* React **v.16** (gatsby-plugin-react-next)
-* **Components** lazy loading (social sharing)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Webpack `BundleAnalyzerPlugin`
+Social media came about and gave us a way to share some of these interesting thigs with others. It all became popular and now there are so many fucking social media platforms that it makes me sick. Social media every fucking where, full of shit like what kind of shitty ass food you are eating, the stupid places that you visit and how your kid is better than mine. We just dont give a fuck!
+
+### WE JUST DON'T GIVR A FUCK!!!
+
+![We don't give a fuck](./ray-donovan-22.jpg)
