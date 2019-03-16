@@ -2,7 +2,7 @@
 title: I may not have gone where I intended to go
 category: "testimonies"
 cover: photo-1507915600431-5292809c5ab7.jpg
-author: greg lobinski
+author: ray donovan
 ---
 
 Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. [Suspendisse](http://google.com) in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac **habitasse** platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.

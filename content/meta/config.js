@@ -8,11 +8,11 @@ module.exports = {
   siteLanguage: "en",
 
   /* author */
-  authorName: "greg lobinski",
+  authorName: "ray donovan",
   authorTwitterAccount: "greglobinski",
 
   /* info */
-  headerTitle: "greg lobinski",
+  headerTitle: "ray donovan",
   headerSubTitle: "presents another one GatsbyJS starter",
 
   /* manifest.json */

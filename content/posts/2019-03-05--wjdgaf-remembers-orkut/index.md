@@ -20,9 +20,9 @@ So, as our way of honoring the memory of our lost friend Social Network Orkut, w
 
 Now, this is not for the faint of heart! We needed to make sure that nobody would be offended by this (like we give a fuck)! So, we thought that if there was a trademark to Orkut, we could still use the name for criticism. So, let’s criticize: Orkut was, in our humble opinion, complete trash! There you have it! But even though we just don’t give a fuck, we still checked out the trademark office (the government geniuses that tell you whether or not it’s ok to monopolize a name). We discovered that Google abandoned the shitty Orkut network and the name too!
 
-![Gone!](./orkutabandoned.jpg)
+![Gone!](./orkutabandoned.png)
 
-![RIP Orkut Social Media. I know it’s been a few years but it’s never too late to honor you with some candles from your friends at WeJustDontGiveAFuck.com](./orkutgone.jpg)
+![RIP Orkut Social Media. I know it’s been a few years but it’s never too late to honor you with some candles from your friends at WeJustDontGiveAFuck.com](./RIP.jpg)
 
 RIP Orkut Social Media. I know it’s been a few years but it’s never too late to honor you with some candles from your friends at WeJustDontGiveAFuck.com... We repeat, RIP to the Orkut Social Media network and as a memorial, you will live on through orkut.org in WeJustDontGiveAFuck.com.
 
