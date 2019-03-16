@@ -1,8 +1,8 @@
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteTitle: "We Just Don't Give a Fuck", // <title>
+  shortSiteTitle: "We Just Dont Give a Fuck", // <title> ending for posts and pages
+  siteDescription: "Random thoughts about shit we don't care about.",
+  siteUrl: "https://www.wejustdontgiveafuck.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
@@ -32,8 +32,8 @@ module.exports = {
 
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/" },
+    { name: "twitter", url: "https://twitter.com/" },
+    { name: "facebook", url: "http://facebook.com/" }
   ]
 };
