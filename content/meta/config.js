@@ -1,19 +1,19 @@
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteTitle: "We Just Don't Give a Fuck!!!", // <title>
+  shortSiteTitle: "We Just Don't Give a Fuck", // <title> ending for posts and pages
+  siteDescription: "Social media sucks and we just don't give a fuck",
+  siteUrl: "https://www.wejustdontgiveafuck.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
   authorName: "ray donovan",
-  authorTwitterAccount: "greglobinski",
+  authorTwitterAccount: " ",
 
   /* info */
   headerTitle: "ray donovan",
-  headerSubTitle: "presents another one GatsbyJS starter",
+  headerSubTitle: "Salutes Those Who Don't Give A Fuck",
 
   /* manifest.json */
   manifestName: "HeroBlog - a GatsbyJS starter",
@@ -31,9 +31,9 @@ module.exports = {
   gravatarImgMd5: "",
 
   // social
-  authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
-  ]
+  //authorSocialLinks: [
+ //   { name: "github", url: "https://github.com/greglobinski" },
+ //   { name: "twitter", url: "https://twitter.com/greglobinski" },
+//    { name: "facebook", url: "http://facebook.com/greglobinski" }
+//  ]
 };
