@@ -5,6 +5,8 @@ cover: RIP-Orkut.jpg
 author: ray donovan
 ---
 
+![Orkut](./RIP-Orkut.jpg)
+
 ##No, this is not a tribute to Google’s dead social media platform Orkut. 
 In case you are one of the 99% of the planet who never heard of Orkut, this is what it used to look like:
 

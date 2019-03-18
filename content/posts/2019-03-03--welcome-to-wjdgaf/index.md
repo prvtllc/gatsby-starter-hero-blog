@@ -5,6 +5,8 @@ cover: raydonovan-2.jpg
 author: ray donovan
 ---
 
+![Welcome to WJDGAF!](./raydonovan-2.jpg)
+
 ##We have created WeJustDontGiveAFuck.com 
 to be the antithesis of the crap that we have to read online everyday. See, the web used to be a place where you could find interesting information about the news,various topics and things that you found interesting. To a certain extend, it still is…
 

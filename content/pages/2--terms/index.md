@@ -18,7 +18,7 @@ You shall not "like" pictures of people you actually hate
 
 You shall never ever type LOL unless you are fucking with people who do
 
-You shall checkout [orkkut.org](https://www.orkut.org)
+You shall checkout [orkut.org](https://www.orkut.org)
 
 You shall not sign up for What's app unless you enjoy being stalked and data mined
 
