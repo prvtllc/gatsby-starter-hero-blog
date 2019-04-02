@@ -5,11 +5,9 @@ cover: RIP-Orkut.jpg
 author: ray donovan
 ---
 
-![Orkut](./RIP-Orkut.jpg)
+![Blockbuster](./blockbuster.jpg)
 
 ##There is apparently only one Blockbuster store left and we just don't give a fuck!
-
-![Blockbuster](./blockbuster.jpg)
 
 Someone reported that [there is only one Blockbuster store left in the world](https://www.blastboard.com/t/bockbuster-video-now-has-just-one-store-left-on-earth/26).  When was the last time you went to a Blockbuster?   Think, think, think..... Done?  Yeah, just what I though: you and I just don't give a fuck about Blockbuster.
 
