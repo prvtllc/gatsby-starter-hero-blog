@@ -1,7 +1,7 @@
 ---
-title: WJDGAF Remembers Orkut
-category: "dead websites"
-cover: RIP-Orkut.jpg
+title: Only One Blockbuster Left
+category: "dead stores"
+cover: blockbuster.jpg
 author: ray donovan
 ---
 
